@@ -180,6 +180,34 @@
   ],
   "Categories": [
     {
+      "Id": "646b4eb4-32c0-aaaa-0001-000000000000",
+      "Name": "Security",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": [
+        {
+          "Id": "646b4eb4-32c0-bbbb-0001-000000000001",
+          "Name": "IT Security at Südzucker Group",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0001-000000000002",
+          "Name": "Azure VPN",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
       "Image": "",
