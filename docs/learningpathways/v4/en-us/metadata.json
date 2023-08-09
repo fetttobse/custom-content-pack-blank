@@ -204,6 +204,15 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
+        },
+        {
+          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Name": "Microsoft 365 Basics",
+          "Image": "images/categories/office_basics.png",
+          "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
         }
       ]
     },
@@ -214,7 +223,17 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SZG",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
+          "Name": "Security",
+          "Image": "images/categories/LP-security-subcategory.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0002-000000000000",
@@ -223,7 +242,26 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SZG",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "fcdc0676-03f7-40b9-80c1-167560c4018d",
+          "Name": "Planner",
+          "Image": "images/categories/planner.png",
+          "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+          "Name": "Microsoft Forms",
+          "Image": "images/categories/forms_training.png",
+          "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0003-000000000000",
@@ -232,7 +270,35 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SZG",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "6682f5e0-9f2a-4cd3-9ada-d404b8d34761",
+          "Name": "Viva Connections",
+          "Image": "images/categories/vivaconnections.png",
+          "TechnologyId": "e031aa9d-5421-4ee9-8bc6-1b871bafc7f0",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "0f76af36-ace7-4e17-9ccf-e82c6d5ff24f",
+          "Name": "Viva Goals",
+          "Image": "images/categories/vivagoals_learningpathways.png",
+          "TechnologyId": "c9886f47-0928-4408-a2f7-c0328bca7122",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
+          "Name": "Viva Learning",
+          "Image": "images/categories/vivalearning_learningpathways.png",
+          "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0004-000000000000",
@@ -241,60 +307,6 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SZG",
-      "SubCategories": []
-    },
-    {
-      "Id": "646b4eb4-32c0-aaaa-0005-000000000000",
-      "Name": "Working with Documents",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "SZG",
-      "SubCategories": []
-    },
-    {
-      "Id": "646b4eb4-32c0-aaaa-0006-000000000000",
-      "Name": "Communication",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "SZG",
-      "SubCategories": []
-    },
-    {
-      "Id": "646b4eb4-32c0-aaaa-0007-000000000000",
-      "Name": "Self-Administration",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "SZG",
-      "SubCategories": []
-    },
-    {
-      "Id": "646b4eb4-32c0-aaaa-0008-000000000000",
-      "Name": "Work-specific Apps",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "SZG",
-      "SubCategories": []
-    },
-    {
-      "Id": "646b4eb4-32c0-aaaa-0009-000000000000",
-      "Name": "Useful Tools",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "SZG",
-      "SubCategories": []
-    },
-    {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Scenarios",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
@@ -310,15 +322,6 @@
           "Name": "Work remotely",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
@@ -353,22 +356,13 @@
       ]
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Id": "646b4eb4-32c0-aaaa-0005-000000000000",
+      "Name": "Working with Documents",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "SZG",
       "SubCategories": [
-        {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Outlook",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
         {
           "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
           "Name": "OneDrive",
@@ -424,6 +418,34 @@
           "SubCategories": []
         },
         {
+          "Id": "002ce882-04af-491f-9798-71c857606532",
+          "Name": "Office for the web",
+          "Image": "images/categories/office_for_web.png",
+          "TechnologyId": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0006-000000000000",
+      "Name": "Communication",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": [
+        {
+          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+          "Name": "Outlook",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
           "Id": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
           "Name": "Microsoft Teams",
           "Image": "images/categories/teams.png",
@@ -440,61 +462,35 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
-        },
-        {
-          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
-          "Name": "Microsoft 365 Basics",
-          "Image": "images/categories/office_basics.png",
-          "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "fcdc0676-03f7-40b9-80c1-167560c4018d",
-          "Name": "Planner",
-          "Image": "images/categories/planner.png",
-          "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "daeade40-9dfc-4d82-84be-9ae7544829dc",
-          "Name": "Microsoft Forms",
-          "Image": "images/categories/forms_training.png",
-          "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
-          "Name": "Sway",
-          "Image": "images/categories/sway.png",
-          "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
-          "Name": "Access",
-          "Image": "images/categories/access.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "002ce882-04af-491f-9798-71c857606532",
-          "Name": "Office for the web",
-          "Image": "images/categories/office_for_web.png",
-          "TechnologyId": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
+        }
+      ]
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0007-000000000000",
+      "Name": "Self-Administration",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0008-000000000000",
+      "Name": "Work-specific Apps",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0009-000000000000",
+      "Name": "Useful Tools",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": [
         {
           "Id": "4b40845d-fe5f-428f-8970-58455e5bf262",
           "Name": "Lists",
@@ -521,30 +517,31 @@
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
-        },
+        }
+      ]
+    },
+    {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Products",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
         {
-          "Id": "6682f5e0-9f2a-4cd3-9ada-d404b8d34761",
-          "Name": "Viva Connections",
-          "Image": "images/categories/vivaconnections.png",
-          "TechnologyId": "e031aa9d-5421-4ee9-8bc6-1b871bafc7f0",
+          "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
+          "Name": "Sway",
+          "Image": "images/categories/sway.png",
+          "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
         },
         {
-          "Id": "0f76af36-ace7-4e17-9ccf-e82c6d5ff24f",
-          "Name": "Viva Goals",
-          "Image": "images/categories/vivagoals_learningpathways.png",
-          "TechnologyId": "c9886f47-0928-4408-a2f7-c0328bca7122",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "fa2b8bc0-3316-4102-a5a0-d71610d49d2a",
-          "Name": "Viva Learning",
-          "Image": "images/categories/vivalearning_learningpathways.png",
-          "TechnologyId": "56427b7a-eb5b-4991-b152-4b695bffd6d9",
+          "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
+          "Name": "Access",
+          "Image": "images/categories/access.png",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
