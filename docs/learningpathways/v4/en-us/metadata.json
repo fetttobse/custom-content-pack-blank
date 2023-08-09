@@ -180,34 +180,6 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-aaaa-0001-000000000000",
-      "Name": "Security",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "SZG",
-      "SubCategories": [
-        {
-          "Id": "646b4eb4-32c0-bbbb-0001-000000000001",
-          "Name": "IT Security at Südzucker Group",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "SZG",
-          "SubCategories": []
-        },
-        {
-          "Id": "646b4eb4-32c0-bbbb-0001-000000000002",
-          "Name": "Azure VPN",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
       "Image": "",
@@ -234,6 +206,87 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0001-000000000000",
+      "Name": "Security",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0002-000000000000",
+      "Name": "Agile Work",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0003-000000000000",
+      "Name": "Work-Life-Balance",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0004-000000000000",
+      "Name": "Modern Digital Workplace",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0005-000000000000",
+      "Name": "Working with Documents",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0006-000000000000",
+      "Name": "Communication",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0007-000000000000",
+      "Name": "Self-Administration",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0008-000000000000",
+      "Name": "Work-specific Apps",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
+    },
+    {
+      "Id": "646b4eb4-32c0-aaaa-0009-000000000000",
+      "Name": "Useful Tools",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "SZG",
+      "SubCategories": []
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
