@@ -218,7 +218,7 @@
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0001-000000000000",
-      "Name": "Security",
+      "Name": "Sécurité",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -237,7 +237,7 @@
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0002-000000000000",
-      "Name": "Agiles Arbeiten",
+      "Name": "Travail Agile",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -357,7 +357,7 @@
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0005-000000000000",
-      "Name": "Arbeiten mit Dokumenten",
+      "Name": "Travailler avec des documents",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -430,7 +430,7 @@
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0006-000000000000",
-      "Name": "Kommunikation",
+      "Name": "Communication",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -468,7 +468,7 @@
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0007-000000000000",
-      "Name": "Selbst-Organisation",
+      "Name": "Organisation personnelle",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -477,7 +477,7 @@
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0008-000000000000",
-      "Name": "Arbeitsspezifische Anwendungen",
+      "Name": "Applications spécifiques au travail",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -486,7 +486,7 @@
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0009-000000000000",
-      "Name": "Nützliche Tools",
+      "Name": "Outils utiles",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
