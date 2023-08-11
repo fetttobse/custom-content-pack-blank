@@ -472,7 +472,17 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SZG",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "646b4eb4-32c0-bbbb-0007-000000000001",
+          "Name": "Self-Service-Portal",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0008-000000000000",
