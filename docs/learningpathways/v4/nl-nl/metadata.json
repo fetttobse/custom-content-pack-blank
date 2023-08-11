@@ -472,7 +472,35 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SZG",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "646b4eb4-32c0-bbbb-0007-000000000001",
+          "Name": "Self-Service-Portal",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0007-000000000002",
+          "Name": "SAP Concur",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0007-000000000003",
+          "Name": "To Do",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0008-000000000000",
@@ -481,7 +509,80 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SZG",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000001",
+          "Name": "Printing",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000002",
+          "Name": "Clarity",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000003",
+          "Name": "SAP BI",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000004",
+          "Name": "SAP ERP",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000005",
+          "Name": "OneCRM Introduction",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000006",
+          "Name": "OneCRM Knowlegde Base BENEO",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000007",
+          "Name": "OneCRM Knowlegde Base CropEnergies",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        },
+        {
+          "Id": "646b4eb4-32c0-bbbb-0008-000000000008",
+          "Name": "OneCRM Knowlegde Base Sugar Division",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "SZG",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "646b4eb4-32c0-aaaa-0009-000000000000",
